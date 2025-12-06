@@ -90,3 +90,10 @@ Includes model comparison + visualization
 Perfect for learning finance + machine learning
 
 Ready for deployment, automation, or API integration
+
+
+###Update ##
+
+now it can predict the next day risk automatically, In past you have to put the data manually but now it will do automatically
+
+Thank you 
